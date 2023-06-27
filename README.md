@@ -32,3 +32,5 @@ function.
 
 
 ['python', 'php', 'aba', 'radar', 'level']
+
+Check code fro answers
